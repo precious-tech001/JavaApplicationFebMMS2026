@@ -1,0 +1,11 @@
+public class WhileLoop{
+	public static void main(String[] args) {
+		String name = "John Dow";
+		
+		int i = 1;
+		while (i <= 10){
+			System.out.printf("%s, You are welcome to NIIT%n",name);
+			i++;
+	    }	
+    }		
+}
